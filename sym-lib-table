@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name AGB-Break-rescue)(type Legacy)(uri ${KIPRJMOD}/AGB-Break-rescue.lib)(options "")(descr ""))
+)
