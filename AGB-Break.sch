@@ -164,7 +164,7 @@ CARTRIDGE
 Text Notes 12250 10900 0    50   ~ 0
 AGB Consolizer / GBAHD Consolizer
 Text Notes 13000 11050 0    50   ~ 0
-June 26, 2021
+August 1, 2021
 Text GLabel 5600 5600 0    50   Input ~ 0
 LCD_G5
 Text GLabel 5600 5700 0    50   Input ~ 0
@@ -2662,6 +2662,7 @@ Wire Wire Line
 	5800 9500 5800 9000
 Wire Wire Line
 	5800 9000 5550 9000
+Connection ~ 6450 8600
 Wire Bus Line
 	5150 2350 5150 4550
 Wire Bus Line
@@ -2670,5 +2671,4 @@ Wire Bus Line
 	8650 1900 8650 3850
 Wire Bus Line
 	6850 1900 6850 3850
-Connection ~ 6450 8600
 $EndSCHEMATC
