@@ -1,9 +1,10 @@
 # GBAHD-AGB Motherboard
-This is a replacement motherboard for a AGB-CPU for the [gbaHD project](https://github.com/zwenergy/gbaHD).  
+This is a replacement AGB motherboard shield for the [gbaHD project](https://github.com/zwenergy/gbaHD).  
 - The aim is to remove the CPU and RAM from an original AGB motherboard and place them in this new board.  
 - Uses an MCU to connect a classic controller.  
 - Has a cartridge slot with a switch to detect DMG/CGB games and switch voltages.
 - Has a power switch circuitry to replace Spartan Edge switch.
+- Has a better footprint for 3D printed cases
 
 
 ## Issues
