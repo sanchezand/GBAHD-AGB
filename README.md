@@ -33,6 +33,13 @@ After wiring the board, follow this tutorial to flash the bootloader and the ske
   
 The Arduino code requires the [NintendoExtensionCtrl](https://github.com/dmadison/NintendoExtensionCtrl) library.
 
+## Credits
+This project would've not existed if it werent for people with real electrical engineering knowledge!
+- ARCADETV - (Their AGB schematics seem to have dissapeared)
+- Derek F - [GBA-2 Go](https://hackaday.io/project/169998-gba-2-go)
+- Zwenergy - [GBAHD Creator](https://github.com/zwenergy/gbaHD)
+- dmadison - [Nintendo Controller Libraries](https://github.com/dmadison/NintendoExtensionCtrl)
+
 ## Images
 ![PCB](./static/pcb.png "PCB")
 
