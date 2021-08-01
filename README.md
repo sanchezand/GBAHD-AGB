@@ -1,4 +1,4 @@
-# gbaHD Shield
+# GBAHD-AGB Motherboard
 This is a replacement motherboard for a AGB-CPU for the [gbaHD project](https://github.com/zwenergy/gbaHD).  
 - The aim is to remove the CPU and RAM from an original AGB motherboard and place them in this new board.  
 - Uses an MCU to connect a classic controller.  
